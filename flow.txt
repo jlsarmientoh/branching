@@ -2,3 +2,4 @@
 2. Added second line
 3. Feature B: Added third file featureB.txt
 4. FeatureC added
+5. Feature E added
